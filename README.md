@@ -63,7 +63,7 @@ See [docs/SPEC.md](docs/SPEC.md) for the full technical specification.
 
 ## Grant
 
-This project is funded by the [Regenesis Grants Program Season 1](https://grants.dclregenesislabs.xyz/) (Tech Ecosystem track).
+This project has applied for the [Regenesis Grants Program Season 1](https://grants.dclregenesislabs.xyz/) (Tech Ecosystem track).       
 
 ## License
 
